@@ -1,0 +1,44 @@
+ol {
+    background-color: lightyellow;
+}
+.par {
+    color: rgb(84, 220, 84)
+}
+.impar {
+    text-transform: capitalize;
+}
+h1, h3 {
+    color: rgb(208, 84, 84);
+}
+h1 {
+    font-size:40px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+li {
+    font-size: 20px;
+}
+.azul {
+    color: blue;
+}
+.java:hover {
+    background-color: pink ;
+}
+.desenvolvedora:hover {
+    font-weight:bolder;
+
+}
+.laranja:hover {
+    background-color: orange ;
+}
+.verde:hover {
+    background-color: green;
+}
+.preta:hover {
+    background-color: black;
+    color: white;
+}
+.amarela:hover {
+    background-color: yellow;
+}
